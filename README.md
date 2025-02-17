@@ -1,1 +1,1 @@
-# interactive_map
+# interactive_map.html
